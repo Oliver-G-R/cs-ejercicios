@@ -1,0 +1,16 @@
+D:\olive\UAT\Programacion\C#\ejercicios-c#\bin\Debug\net5.0\ejercicios-c#.exe
+D:\olive\UAT\Programacion\C#\ejercicios-c#\bin\Debug\net5.0\ejercicios-c#.deps.json
+D:\olive\UAT\Programacion\C#\ejercicios-c#\bin\Debug\net5.0\ejercicios-c#.runtimeconfig.json
+D:\olive\UAT\Programacion\C#\ejercicios-c#\bin\Debug\net5.0\ejercicios-c#.runtimeconfig.dev.json
+D:\olive\UAT\Programacion\C#\ejercicios-c#\bin\Debug\net5.0\ejercicios-c#.dll
+D:\olive\UAT\Programacion\C#\ejercicios-c#\bin\Debug\net5.0\ejercicios-c#.pdb
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.csproj.AssemblyReference.cache
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.AssemblyInfoInputs.cache
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.AssemblyInfo.cs
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.csproj.CoreCompileInputs.cache
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.dll
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\refint\ejercicios-c#.dll
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.pdb
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ejercicios-c#.genruntimeconfig.cache
+D:\olive\UAT\Programacion\C#\ejercicios-c#\obj\Debug\net5.0\ref\ejercicios-c#.dll
