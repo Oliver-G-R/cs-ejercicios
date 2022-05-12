@@ -5,7 +5,7 @@ namespace ejercicios_c_
     {
         static void Main(string[] args)
         {
-           
+            
         }
     }
 }
